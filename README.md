@@ -9,7 +9,7 @@ This repo will fetch the full beta installer and zip what you need to have in or
 
 # How to use this ?
 
-Fork this repo and run `Generate macOS Tahoe Recovery Image` worflow.
+Fork this repo and run `Generate macOS Tahoe Recovery Image` workflow.
 
 Once done you will have com.apple.recovery.boot.zip artifact 
 
